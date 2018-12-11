@@ -8,6 +8,9 @@ Analogue tools for getting and staying organized
 
 [The Hipster PDA 2009-2010](http://spencerdub.me/blog/2015/03/hipster-pda/)
 
+[D*I*Y Planner Hipster PDA Edition](http://www.diyplanner.com/templates/official/hpda) - downloads
+
+
 
 ## GitHub repos
 
