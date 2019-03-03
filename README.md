@@ -16,7 +16,7 @@ Analog (or analogue!) tools for getting and staying organized, based largely on 
 
 
 
-## GitHub repos
+### GitHub repos
 
 https://github.com/rozza/chrome-hipster-pda
 
@@ -27,3 +27,9 @@ https://github.com/sergiopantoja/hipster-pda-printer
 https://github.com/mm--/zeitplanungmaschine
 
 
+
+***
+
+## Other resources for getting things done
+
+James Clear, [How to be More Productive and Eliminate Time Wasting Activities by Using the “Eisenhower Box”](https://jamesclear.com/eisenhower-box)
